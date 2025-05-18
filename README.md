@@ -1,0 +1,99 @@
+Bookly: Online Bookstore
+
+Bookly is an online bookstore application where users can browse books, add them to their carts, and purchase them. The project includes an admin panel for managing products, users, and orders. This project was submitted as part of Semester 1 coursework.
+
+Features
+
+User Features:
+Browse available books.
+Add books to the shopping cart and manage them.
+Checkout and view order details.
+
+Admin Features:
+ Add, update, and delete books.
+View and manage users, orders, and payments.
+ Access statistics via the admin dashboard.
+
+
+
+Installation
+
+Prerequisites:
+ A web server (e.g., XAMPP, WAMP, LAMP, or MAMP).  
+ PHP 7.4+  
+ MySQL database.  
+
+
+Steps to Install:
+1. Clone the repository from GitHub:
+   
+git clone https://github.com/saunakkkkk/dass25-sem1.git
+cd dass25-sem1
+
+
+
+
+   
+
+   
+
+2. Extract the zip file to your web server's root directory:
+   - For XAMPP: Move the files to `C:/xampp/htdocs/
+
+
+Database Setup
+
+1. Open your MySQL database tool from XAMPP (e.g., phpMyAdmin).  
+2. Create a new database named `shop_db`.  
+3. Import the provided `shop_db.sql` file into your database:
+   You can find `shop_db.sql` in the `database` folder of the project.
+
+
+ Running the Application
+
+1. Start your web server (e.g., XAMPP or WAMP).  
+2. Access the application in your browser at:
+   
+             http://localhost/project/
+  
+
+3. To access the admin panel, use the following default credentials:
+   Username: saunak2@gmail.com  
+   Password: 12345  
+
+
+General features
+User Features:
+Book Browsing: Users can view a collection of books available in the store.
+
+Search Functionality: Quickly find books using keywords.
+
+Shopping Cart: Add books to the cart, manage quantities, or remove items.
+
+User Authentication: Secure login and registration for users.
+
+Order Management: Users can place orders and view their order history.
+
+Admin Features:
+Dashboard Overview: Visual summary of pending orders, total users, and products added.
+
+Product Management: Admins can add, update, or delete books from the store.
+
+
+User Management: Manage registered users and admin accounts.
+
+
+Order Management: Track and update the status of user orders.
+
+Payment Status: View completed and pending payments.
+
+
+
+GitHub Repository
+
+The full project is hosted on GitHub: https://github.coventry.ac.uk/5019CMD-2425/dass25-sem1.git
+
+
+Gdrive link
+screencast_bookly.mp4
+
