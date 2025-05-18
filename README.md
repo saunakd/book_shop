@@ -1,18 +1,18 @@
 Bookly: Online Bookstore
 
-Bookly is an online bookstore application where users can browse books, add them to their carts, and purchase them. The project includes an admin panel for managing products, users, and orders. This project was submitted as part of Semester 1 coursework.
+Bookly is an online bookstore application where users can browse books, add them to their carts, and purchase them. The project includes an admin panel for managing products, users, and orders.
 
 Features
 
 User Features:
-Browse available books.
-Add books to the shopping cart and manage them.
-Checkout and view order details.
+a. Browse available books.
+b. Add books to the shopping cart and manage them.
+c. Checkout and view order details.
 
 Admin Features:
- Add, update, and delete books.
-View and manage users, orders, and payments.
- Access statistics via the admin dashboard.
+a. Add, update, and delete books.
+b. View and manage users, orders, and payments.
+c.  Access statistics via the admin dashboard.
 
 
 
@@ -27,8 +27,7 @@ Prerequisites:
 Steps to Install:
 1. Clone the repository from GitHub:
    
-git clone https://github.com/saunakkkkk/dass25-sem1.git
-cd dass25-sem1
+git clone https://github.com/saunakkkkk10/book_shop.git
 
 2. Extract the zip file to your web server's root directory:
    - For XAMPP: Move the files to `C:/xampp/htdocs/
