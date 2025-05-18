@@ -30,13 +30,6 @@ Steps to Install:
 git clone https://github.com/saunakkkkk/dass25-sem1.git
 cd dass25-sem1
 
-
-
-
-   
-
-   
-
 2. Extract the zip file to your web server's root directory:
    - For XAMPP: Move the files to `C:/xampp/htdocs/
 
@@ -64,36 +57,20 @@ Database Setup
 
 General features
 User Features:
-Book Browsing: Users can view a collection of books available in the store.
-
-Search Functionality: Quickly find books using keywords.
-
-Shopping Cart: Add books to the cart, manage quantities, or remove items.
-
-User Authentication: Secure login and registration for users.
-
-Order Management: Users can place orders and view their order history.
+a. Book Browsing: Users can view a collection of books available in the store.
+b. Search Functionality: Quickly find books using keywords.
+c. Shopping Cart: Add books to the cart, manage quantities, or remove items.
+d. User Authentication: Secure login and registration for users.
+e. Order Management: Users can place orders and view their order history.
 
 Admin Features:
-Dashboard Overview: Visual summary of pending orders, total users, and products added.
-
-Product Management: Admins can add, update, or delete books from the store.
-
-
-User Management: Manage registered users and admin accounts.
-
-
-Order Management: Track and update the status of user orders.
-
-Payment Status: View completed and pending payments.
-
-
-
-GitHub Repository
-
-The full project is hosted on GitHub: https://github.coventry.ac.uk/5019CMD-2425/dass25-sem1.git
+a. Dashboard Overview: Visual summary of pending orders, total users, and products added.
+b. Product Management: Admins can add, update, or delete books from the store.
+c. User Management: Manage registered users and admin accounts.
+d. Order Management: Track and update the status of user orders.
+e. Payment Status: View completed and pending payments.
 
 
 Gdrive link
-screencast_bookly.mp4
+https://drive.google.com/file/d/10Wgw-LSh5PcUdweJbeLOltGa_b7Lmy6o/view
 
