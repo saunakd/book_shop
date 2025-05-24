@@ -1,6 +1,6 @@
 Bookly: Online Bookstore
-(https://github.com/saunakd/book_shop/blob/main/Screenshot%202024-12-13%20142802.png)
-(https://github.com/saunakd/book_shop/blob/main/Screenshot%202024-12-13%20142835.png)
+![Preview](https://github.com/saunakd/book_shop/blob/main/Screenshot%202024-12-13%20142802.png)
+![Preview](https://github.com/saunakd/book_shop/blob/main/Screenshot%202024-12-13%20142835.png)
 
 Bookly is an online bookstore application where users can browse books, add them to their carts, and purchase them. The project includes an admin panel for managing products, users, and orders.
 
